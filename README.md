@@ -2,7 +2,6 @@
 
 
 
-
 # some basic linux commands
 
 `ls` - show the contents of the current directory
